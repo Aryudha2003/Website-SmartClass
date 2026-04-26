@@ -1,0 +1,6 @@
+{
+  "name": "Inst4Class - Smart Room Booking",
+  "description": "Smart room booking system with Google Authentication, real-time sync, AI diagnostics, and a Frosted Glass interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
